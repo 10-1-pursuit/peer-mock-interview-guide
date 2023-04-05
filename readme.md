@@ -14,8 +14,6 @@ Your instructor will give each fellow access to either:
 
 or
 
-**TO DO** Instructors, update this link to be your link inside your org:
-
 [Group B](https://github.com/9-1-pursuit/peer-mi-group-b)
 
 ## Instructions
