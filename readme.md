@@ -10,13 +10,13 @@ Your instructor will give each fellow access to either:
 
 **TO DO** Instructors, update this link to be your link inside your org:
 
-[This set](https://github.com/joinpursuit/peer-mi-group-a)
+[Group A](https://github.com/9-1-pursuit/peer-mi-group-a)
 
 or
 
 **TO DO** Instructors, update this link to be your link inside your org:
 
-[That set](https://github.com/joinpursuit/peer-mi-group-b)
+[Group B](https://github.com/9-1-pursuit/peer-mi-group-b)
 
 ## Instructions
 
