@@ -8,8 +8,6 @@ The goal isn't to successfully complete the challenges. The goal is to improve b
 
 Your instructor will give each fellow access to either:
 
-**TO DO** Instructors, update this link to be your link inside your org:
-
 [Group A](https://github.com/9-1-pursuit/peer-mi-group-a)
 
 or
