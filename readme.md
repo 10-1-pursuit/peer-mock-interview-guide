@@ -18,8 +18,6 @@ or
 
 ### Google Form
 
-**TO DO** Instructors, update this link to be your class's form:
-
 Be sure to share how it went with your instructional team. Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSe_DJKXymOJ7fSBmdrbD5zrlND5UGARc1MJACEjbQvTEBeRqQ/viewform?usp=sf_link).
 
 ### Trivia Question
