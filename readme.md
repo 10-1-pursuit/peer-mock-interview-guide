@@ -18,7 +18,7 @@ or
 
 ### Google Form
 
-Be sure to share how it went with your instructional team. Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSe_DJKXymOJ7fSBmdrbD5zrlND5UGARc1MJACEjbQvTEBeRqQ/viewform?usp=sf_link).
+Be sure to share how it went with your instructional team. Please use [this form](https://forms.gle/satM2yQbqZyiyQkb8).
 
 ### Trivia Question
 
