@@ -12,7 +12,7 @@ Your instructor will give each fellow access to either:
 
 or
 
-[Group B](https://github.com/9-1-pursuit/peer-mi-group-b)
+[Group B](https://github.com/cgodoy720/peer-interview-group-b)
 
 ## Instructions
 
