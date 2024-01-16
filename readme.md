@@ -8,7 +8,7 @@ The goal isn't to successfully complete the challenges. The goal is to improve b
 
 Your instructor will give each fellow access to either:
 
-[Group A](https://github.com/9-1-pursuit/peer-mi-group-a)
+[Group A](https://github.com/cgodoy720/peer-interview-group-a)
 
 or
 
