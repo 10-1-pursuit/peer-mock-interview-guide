@@ -22,7 +22,7 @@ Be sure to share how it went with your instructional team. Please use [this form
 
 ### Trivia Question
 
-- [select a trivia question](https://github.com/joinpursuit/Mock-Interview-Trivia-Questions/blob/main/README.md)
+- [select a trivia question](https://github.com/joinpursuit/Mock-Interview-Trivia-Questions/blob/main)
 
 The goal is for you and your partner to practice talking about code. Be sure to take the time to look up the answer to this question if you are not sure of the answer.
 
